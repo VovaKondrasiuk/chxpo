@@ -28,3 +28,4 @@ do
   git commit -m "Random Commit $i on $commit_date"
 doneRandom Commit 1
 Random Commit 2
+Random Commit 3
