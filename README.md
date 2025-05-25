@@ -27,3 +27,4 @@ do
   GIT_AUTHOR_DATE="$commit_date" GIT_COMMITTER_DATE="$commit_date" \
   git commit -m "Random Commit $i on $commit_date"
 doneRandom Commit 1
+Random Commit 2
